@@ -23,12 +23,12 @@ footer-links:
   flickr:
   github: s2e-systems
   instagram:
-  linkedin: https://www.linkedin.com/company/s2e-systems
+  linkedin: company/s2e-systems/?viewAsMember=true
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UC0j1Im-DVX0OBcwuV1VIWow # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UC0j1Im-DVX0OBcwuV1VIWow # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
