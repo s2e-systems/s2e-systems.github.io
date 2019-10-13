@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-S2E Software, Systems and Control is a specialized consultancy company developing and providing software solutions for robotics, automation and embedded control systems. You can find out more about us at [s2e-systems.com](https://www.s2e-systems.com)
+[S2E Systems](https://www.s2e-systems.com) is a specialized software consultancy company dedicated to developing custom software solutions for embedded, distributed and robotics systems using the C, C++ and Rust programming languages. To know more about us visit our [website](https://www.s2e-systems.com).
