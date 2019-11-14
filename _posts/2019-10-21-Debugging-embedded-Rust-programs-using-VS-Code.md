@@ -110,4 +110,10 @@ These are commands from OpenOCD so refer to the documentation for more details
 
 - The Cortex-Debug extension stops the execution either at the first function or at the main (configurable by `"runToMain"`). To avoid this we add the `"postLaunchCommands": ["continue"]` command to keep running without interruptions. All of these additions could be removed or adjusted depending on your preferences.
 
+Now we can deploy, run and debug our programs with a single button click.
+
+![vs_code_stm32f7_debug_example](C:\workcopies\s2e-systems.github.io\images\vs_code_stm32f7_debug_example.png)
+
+
+
 If you are interested, you can get all the files for this project on the [github page](https://github.com/s2e-systems/stm32f7-blinky/blob/master/src/main.rs).
