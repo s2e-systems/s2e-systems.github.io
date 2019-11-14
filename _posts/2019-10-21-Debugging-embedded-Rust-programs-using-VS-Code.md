@@ -112,7 +112,7 @@ These are commands from OpenOCD so refer to the documentation for more details
 
 Now we can deploy, run and debug our programs with a single button click.
 
-![vs_code_stm32f7_debug_example](C:\workcopies\s2e-systems.github.io\images\vs_code_stm32f7_debug_example.png)
+![VS Code STM32F7 Debug example]({{ site.baseurl }}\images\vs_code_stm32f7_debug_example.png)
 
 
 
